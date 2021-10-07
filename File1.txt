@@ -1,1 +1,2 @@
-File1.txt Content Oct7 12:02 Written From Feuture1 Branch
+File1.txt Content Oct7 12:02 Written From Feuture1 Branch and also updated line from SubFeature2
+New line added  from SubFeature2
