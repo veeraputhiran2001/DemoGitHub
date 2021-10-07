@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 File1.txt Content Oct7 12:02 Written From Feuture1 Branch and Updated from Feature1
-
-New Line added from Feature1
->>>>>>> Feature1
