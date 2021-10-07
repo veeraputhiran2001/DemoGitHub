@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 File1.txt Content Oct7 12:02 Written From Feuture1 Branch and Updated from Feature1
 
 New Line added from Feature1
+=======
+File1.txt Content Oct7 12:02 Written From Feuture1 Branch and also updated line from SubFeature2
+New line added  from SubFeature2
+>>>>>>> Sub-Feture2 Commit 01 Added:File3.txt modified:File1.txt
